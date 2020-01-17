@@ -19,6 +19,6 @@ File structure
 - /builds/android - contains a prebuilt apk for Android devices
 - /images - contains gif animation of the game
 
-Game play
----------
-![alt text](https://raw.githubusercontent.com/![alt text](https://raw.githubusercontent.com/PatrikMaki/simplegame/master/images/gameplay.gif))
+Gameplay
+--------
+![alt text](https://raw.githubusercontent.com/PatrikMaki/simplegame/master/images/gameplay.gif)
