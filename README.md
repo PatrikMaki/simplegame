@@ -10,5 +10,11 @@ Note that this game is not a ready product for release. It's a learning excersiz
 
 File structure
 --------------
-- /Assets
-- /Scripts
+- /Assets - contains game assets like C# Scripts
+- /Packages - contains package settings
+- /ProjectSettings
+- /README.md - this file
+- /simple game.sln
+- /Assembly-CSharp.csproj
+- /builds/android - contains a prebuilt apk for Android devices
+- /images - contains gif animation of the game
